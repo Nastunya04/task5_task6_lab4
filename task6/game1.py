@@ -114,7 +114,7 @@ class Street():
         '''
         self.descr = descr
 
-    def get_details(self):
+    def get_details(self, next):
         '''
         Prints details of street
         '''
